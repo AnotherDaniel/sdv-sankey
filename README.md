@@ -6,6 +6,7 @@ There is no claim to completeness or correctness, or even usefulness.
 ## Code origins
 
 The majority of the javascript code is lifted from [oberservable/d3](https://observablehq.com/@d3/sankey@278)
+
 Idea for this scenario is to have a very simple, minimal diagram-generating web page that allows for experimenting with the usefulness of a Sankey-style visualization for the subject matter.
 
 ## Running
