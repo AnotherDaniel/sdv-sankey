@@ -1,0 +1,11 @@
+source,target,value
+AUTOSAR,Eclipse SDV,3
+Linux Foundation,CNCF,30
+Linux Foundation,SOAFEE,10
+Linux Foundation,Eclipse SDV,10
+Linux Foundation,AGL,20
+CNCF,SOAFEE,10
+CNCF,Eclipse SDV,5
+SOAFEE,Eclipse SDV,25
+SOAFEE,Autoware Foundation,33
+COVESA,Eclipse SDV,15
