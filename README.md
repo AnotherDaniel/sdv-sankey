@@ -1,6 +1,6 @@
 # Automotive Software communities as a Sankey Diagram
 
-This is an attempt to visualize relationships/"artifact flow" between all the different automotive software communities.
+Attempt to visualize relationships/"artifact flow" between the different automotive software communities.
 There is no claim to completeness or correctness, or even usefulness.
 
 ## Code origins
