@@ -47,7 +47,7 @@
       // modified from original code to load data from separate file instead of inline
       const links = d3.csvParse(loadFile("./data.csv"), d3.autoType);
       const nodes = Array.from(new Set(links.flatMap(l => [l.source, l.target])), name => ({ name, category: name.replace(/ .*/, "") }));
-      return { nodes, links, units: "TWh" };
+      return { nodes, links, units: "relationship points" };
     })();
 
     const format = (() => {
