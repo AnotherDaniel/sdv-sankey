@@ -3,6 +3,8 @@
 Attempt to visualize relationships/"artifact flow" between the different automotive software communities.
 There is no claim to completeness or correctness, or even usefulness.
 
+[Sankey-style SDV map](https://anotherdaniel.github.io/sdv-sankey/)
+
 ## Code origins
 
 The majority of the javascript code is lifted from [oberservable/d3](https://observablehq.com/@d3/sankey@278)
